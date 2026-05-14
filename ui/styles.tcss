@@ -1,0 +1,32 @@
+Screen {
+    background: black;
+}
+
+#app-grid {
+    layout: grid;
+    grid-size: 1 3;
+}
+
+#warning-bar {
+    height: 3;
+    background: $error;
+    color: white;
+    text-style: bold;
+    content-align: center middle;
+}
+
+.panel {
+    border: heavy red;
+    margin: 1;
+    padding: 1;
+}
+
+RadarWidget, DigitalSkull, MatrixRain, ThreatPanel {
+    height: 20;
+}
+
+#status-bar {
+    height: 3;
+    background: darkred;
+    color: cyan;
+}
