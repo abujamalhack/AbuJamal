@@ -1,0 +1,6 @@
+textual>=0.41.0
+rich>=13.7.0
+colorama>=0.4.6
+pyfiglet>=0.8.post1
+pyyaml>=6.0
+asyncio>=3.4.3
