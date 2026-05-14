@@ -1,0 +1,28 @@
+system:
+  name: "CITADEL-CORE"
+  version: "7.6.2-ALPHA"
+  security_level: "TOP SECRET//NOFORN"
+
+themes:
+  active: "crimson"
+
+simulation:
+  radar_speed: 2.5
+  matrix_rain_speed: 0.05
+  telemetry_update_rate: 0.3
+  glitch_frequency: 0.15
+
+display:
+  fullscreen: true
+  fps: 30
+  bloom_enabled: true
+  scanlines_enabled: true
+
+audio:
+  enabled: false
+
+fake_modules:
+  darknet_relays: 7
+  satellite_links: 3
+  quantum_encryption_layers: 5
+  active_threats: 12
