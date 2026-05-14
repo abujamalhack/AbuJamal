@@ -1,7 +1,7 @@
 #!/bin/bash
 echo "╔═══════════════════════════════════════════════════════════╗"
-echo "║     KALI CYBER INTELLIGENCE TERMINAL - SETUP              ║"
-echo "║     CLASSIFIED SIMULATION - NO REAL FUNCTIONALITY         ║"
+echo "║     KALI CYBER INTELLIGENCE TERMINAL – SETUP              ║"
+echo "║     CLASSIFIED SIMULATION – NO REAL FUNCTIONALITY         ║"
 echo "╚═══════════════════════════════════════════════════════════╝"
 
 if ! command -v python3 &> /dev/null; then
