@@ -43,7 +43,7 @@ This terminal is **not just eye candy**. It’s a fully modular, cinematic, mili
 
 ## ⚡ **Key Features – Tactical Intelligence Overload**
 
-| Module | Function (Simulated) |
+| Module | Function (HACKERS) |
 |--------|----------------------|
 | 🛸 **SIGNAL TRACE ENGINE** | Advanced phone‑number triangulation (TRUE) |
 | 🛰️ **SATELLITE RELAY CORE** | Real‑time satellite handshake  |
