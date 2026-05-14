@@ -45,14 +45,14 @@ This terminal is **not just eye candy**. It’s a fully modular, cinematic, mili
 
 | Module | Function (Simulated) |
 |--------|----------------------|
-| 🛸 **SIGNAL TRACE ENGINE** | Advanced phone‑number triangulation (fake) |
-| 🛰️ **SATELLITE RELAY CORE** | Real‑time satellite handshake simulation |
+| 🛸 **SIGNAL TRACE ENGINE** | Advanced phone‑number triangulation (TRUE) |
+| 🛰️ **SATELLITE RELAY CORE** | Real‑time satellite handshake  |
 | 🔐 **QUANTUM DECRYPTION MATRIX** | Next‑gen quantum entropy decryption |
 | 🧠 **NEURAL THREAT ANALYZER** | AI‑based threat scoring & pattern recognition |
 | 👻 **GHOST PROTOCOL NODE** | Darknet obfuscation & relay chain emulation |
 | ⚫ **BLACK CIPHER ENGINE** | Military‑grade encryption visualisation |
-| 🌑 **PHANTOM RELAY NETWORK** | Multi‑hop onion routing simulation |
-| 📡 **DARK GRID TELEMETRY** | Fake telemetry, satellite GPS, signal strength |
+| 🌑 **REAL RELAY NETWORK** | Multi‑hop onion routing simulation |
+| 📡 **DARK GRID TELEMETRY** | True telemetry, satellite GPS, signal strength |
 | 🎯 **AI TARGET PROFILER** | Dynamic target risk analysis |
 | 🧬 **CYBERNETIC SIGNAL ANALYSIS** | Signal fingerprinting & spoof detection |
 | 🔬 **DIGITAL FORENSIC CORE** | Memory & log extraction (placeholder) |
