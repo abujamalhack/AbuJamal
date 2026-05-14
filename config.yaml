@@ -1,28 +1,32 @@
 system:
-  name: "CITADEL-CORE"
-  version: "7.6.2-ALPHA"
-  security_level: "TOP SECRET//NOFORN"
+  name: "OMEGA-CORE"
+  version: "9.4.1-BLACKSTAR"
+  security_level: "TOP SECRET//NOFORN//OMEGA"
 
 themes:
   active: "crimson"
 
 simulation:
-  radar_speed: 2.5
-  matrix_rain_speed: 0.05
-  telemetry_update_rate: 0.3
-  glitch_frequency: 0.15
+  radar_speed: 1.8
+  matrix_rain_speed: 0.03
+  telemetry_update_rate: 0.2
+  glitch_frequency: 0.25
+  scanline_intensity: 0.6
+  bloom_intensity: 0.8
 
 display:
   fullscreen: true
-  fps: 30
+  fps: 60
   bloom_enabled: true
   scanlines_enabled: true
+  crt_flicker: true
 
 audio:
-  enabled: false
+  enabled: false  # تجريبي – لا يوجد صوت حقيقي
 
 fake_modules:
-  darknet_relays: 7
-  satellite_links: 3
-  quantum_encryption_layers: 5
-  active_threats: 12
+  darknet_relays: 12
+  satellite_links: 5
+  quantum_encryption_layers: 9
+  active_threats: 24
+  signal_hops: 14
