@@ -4,5 +4,5 @@ class BloomEffect:
         self.intensity = intensity
 
     async def apply(self, target):
-        # محاكاة تأثير البلوم عبر تغيير الألوان مؤقتاً
+        # محاكاة تأثير البلوم (لا شيء)
         pass

@@ -1,4 +1,4 @@
-herefrom textual.widgets import Static
+from textual.widgets import Static
 import asyncio
 import random
 import math

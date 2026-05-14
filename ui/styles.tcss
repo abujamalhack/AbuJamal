@@ -16,16 +16,9 @@ Screen {
     text-style: bold;
     content-align: center middle;
     border: heavy red;
-    animation: pulse 1s infinite;
 }
 
-@keyframes pulse {
-    0% { border-color: red; }
-    50% { border-color: magenta; }
-    100% { border-color: red; }
-}
-
-RadarWidget, DigitalSkull, MatrixRain, ThreatPanel, GeoLocationTracker,
+.panel, RadarWidget, DigitalSkull, MatrixRain, ThreatPanel, GeoLocationTracker,
 SatelliteSyncPanel, SignalStrengthGraph, BiometricScanner, DarknetRelayMonitor,
 EncryptedTunnelStatus, AIConfidenceScore, ThreatProbabilityChart,
 OperationTimer, TacticalHUD, ClassifiedDocumentViewer, CyberSkullAnimation {
