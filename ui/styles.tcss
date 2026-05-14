@@ -4,7 +4,9 @@ Screen {
 
 #app-grid {
     layout: grid;
-    grid-size: 1 3;
+    grid-size: 3 5;
+    grid-gutter: 1;
+    padding: 1;
 }
 
 #warning-bar {
@@ -13,20 +15,30 @@ Screen {
     color: white;
     text-style: bold;
     content-align: center middle;
+    border: heavy red;
+    animation: pulse 1s infinite;
 }
 
-.panel {
-    border: heavy red;
+@keyframes pulse {
+    0% { border-color: red; }
+    50% { border-color: magenta; }
+    100% { border-color: red; }
+}
+
+RadarWidget, DigitalSkull, MatrixRain, ThreatPanel, GeoLocationTracker,
+SatelliteSyncPanel, SignalStrengthGraph, BiometricScanner, DarknetRelayMonitor,
+EncryptedTunnelStatus, AIConfidenceScore, ThreatProbabilityChart,
+OperationTimer, TacticalHUD, ClassifiedDocumentViewer, CyberSkullAnimation {
+    border: solid cyan;
     margin: 1;
     padding: 1;
+    background: #0a0a0a;
+    height: 12;
 }
 
-RadarWidget, DigitalSkull, MatrixRain, ThreatPanel {
-    height: 20;
-}
-
-#status-bar {
-    height: 3;
-    background: darkred;
-    color: cyan;
+MatrixRain {
+    layer: background;
+    opacity: 0.3;
+    height: 100%;
+    width: 100%;
 }
