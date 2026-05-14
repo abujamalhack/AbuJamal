@@ -6,7 +6,7 @@ fi
 source venv/bin/activate
 clear
 echo "╔═══════════════════════════════════════════════════════════╗"
-echo "║     تشغيل محاكاة الطرفية الإلكترونية العسكرية            ║"
+echo "║     INITIALIZING OMEGA CYBER COMMAND                      ║"
 echo "╚═══════════════════════════════════════════════════════════╝"
 sleep 2
 python3 main.py
