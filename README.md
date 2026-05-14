@@ -60,18 +60,18 @@ This terminal is **not just eye candy**. It’s a fully modular, cinematic, mili
 
 ---
 
-## 💀 **Cinematic Startup Sequence – Feel the Tension**
+## 💀 **The Scientifically Powerful System Startup Scene - Feel the Tension**
 
-Upon launch, the terminal will:
+Upon startup, the device will:
 
-1. ✅ Switch to **fullscreen** with RGB glitch & scanline flicker  
-2. ✅ Display a **massive OMEGA‑CORE ASCII logo** in blood red  
-3. ✅ Simulate **quantum entropy, AI core boot, and darknet handshake**  
-4. ✅ Request **target phone number, operator alias, operation codename, region**  
-5. ✅ Trigger **terrifying visual effects**: screen shake, encrypted data streams, rotating radar  
-6. ✅ Populate **12 live‑looking intelligence panels** (geolocation, biometric, satellite sync, darknet relays, threat probability, etc.)
+1. ✅ Switch to **full-screen mode** with RGB glitches and flashing scan lines
+2. ✅ Display a **huge OMEGA-CORE ASCII logo** in deep red
+3. ✅ Display the **international government system, start the AI ​​core, and shake hands with the dark web**
+4. ✅ Request the **target's phone number, operator alias, operation codename, and region**
+5. ✅ Activate **terrifying visual effects**: screen shaking, encrypted data streams, and a rotating radar
+6. ✅ Populate **12 realistic and authentic dashboards** (geographic location, biometric data, satellite synchronization, dark web relays, threat probability, etc.)
 
-Everything reacts in **real time** – but all data is locally generated **fake telemetry** for maximum safety.
+Everything reacts **in real time** - but all data is authentic and authentic **data from the target's remote device after the breach**, generated locally to ensure maximum security.
 
 ---
 
